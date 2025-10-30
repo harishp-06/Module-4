@@ -27,7 +27,7 @@ To write a Python program to take the radius from the user and find the area of 
 
 ### PROGRAM
 
-```
+```python
 import math
 
 class Pen:
